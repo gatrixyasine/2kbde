@@ -1,6 +1,4 @@
-[
-    {
-        "key": "ABCDEF-123456-7890AB",
-        "status": "active"
-    }
-]
+{
+    "licenses": [],
+    "bans": []
+}
