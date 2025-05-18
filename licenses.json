@@ -1,11 +1,6 @@
-{
-    "licenses": [
-        {
-            "key": "ABCDEF-123456-7890AB",
-            "status": "active",
-            "hwid": "",
-            "expires": "2025-12-31T00:00:00+00:00"
-        }
-    ],
-    "bans": []
-}
+[
+    {
+        "key": "ABCDEF-123456-7890AB",
+        "status": "active"
+    }
+]
