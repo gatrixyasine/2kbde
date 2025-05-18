@@ -1,4 +1,11 @@
 {
-    "licenses": [],
-    "bans": []
+  "licenses": [
+    {
+      "key": "KICK-R41WVSH4QYDE",
+      "status": "active",
+      "expires": "2030-07-06",
+      "hwid": null
+    }
+  ],
+  "bans": []
 }
